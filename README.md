@@ -14,5 +14,5 @@ This project contains results of a TCP SYN scan performed using Nmap.
 
 ## Files in This Project
 
-- `scan_results.txt` – Text output of the Nmap scan
+- `scan_results.html` – Text output of the Nmap scan
 - `README.md` – Project description
